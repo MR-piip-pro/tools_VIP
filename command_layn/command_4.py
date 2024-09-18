@@ -12,7 +12,7 @@ def command_list_4():
                     
         """
     # Color and time variables
-    color = "bright_blue blink"  # The selected color of the text
+    color = "bright_blue"  # The selected color of the text
     delay = 0.001  # The exact time between printing each letter
     def slow_print_colored(text, color, delay=0.01):
         # Create a Console object for color printing
