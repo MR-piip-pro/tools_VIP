@@ -20,3 +20,21 @@ def command_list_1():
         print()  # Move to a new line after printing the entire text
     # Call the function with text passing, color, delay time
     slow_print_colored(text, color, delay)
+
+
+
+
+    if choice == "1":
+            list_1()
+            
+        # If user chooses to decrypt a file
+        elif choice == "2":
+            list_2()
+        
+        # If user chooses to generate a random password
+        elif choice == "3":
+            list_3()
+        
+        elif choice == "0":
+            clear_os()
+            return

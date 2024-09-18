@@ -12,7 +12,7 @@ def upd_and_upl():
         elif malk == "2":
             list_upd()
         elif malk == "3":
-            command_list_logo()
+            list_command()
         elif malk.lower() == "0":
             clear_os()
             return

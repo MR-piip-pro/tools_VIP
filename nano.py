@@ -23,7 +23,7 @@ valid_commands = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "clear", "-h
 
 while True:
     # Print the message to the user
-    print("\033[1;35m┌──", ("\033[1;35m(MR@piip@pro)"))
+    print("\033[1;35m┌──", ("\033[1;35m(MR-piip@pro)"))
     command = input("\033[1;35m└─$\033[1;33mcommand: \033[1;37m")
     
     # If the user enters "exit" exits the program
@@ -59,3 +59,10 @@ while True:
             print("command execution failed:", str(e))
     else:
         print("command is not found")
+
+
+
+
+
+
+        
