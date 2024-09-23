@@ -7,7 +7,8 @@ from taym.clear_os import clear_os
 from command_layn.command_1 import command_list_1 
 from command_layn.command_2 import command_list_2
 from command_layn.command_4 import command_list_4
-#from command.command_7 import command_list_7
+from command_layn.command_7 import command_list_7
+
 #from command.command_8 import command_list_8
 #from command.command_9 import command_list_9
 
@@ -48,7 +49,7 @@ while True:
             elif command == "6":
                 main()
             elif command == "7":
-                print("7")
+                command_list_7()
             elif command == "8":
                 print("8")
             elif command == "9":
