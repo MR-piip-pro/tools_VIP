@@ -8,8 +8,9 @@ from command_layn.command_1 import command_list_1
 from command_layn.command_2 import command_list_2
 from command_layn.command_4 import command_list_4
 from command_layn.command_7 import command_list_7
+from command.command_8 import command_list_8
 
-#from command.command_8 import command_list_8
+
 #from command.command_9 import command_list_9
 
 from tools.upd_and_udl import upd_and_upl
@@ -51,7 +52,7 @@ while True:
             elif command == "7":
                 command_list_7()
             elif command == "8":
-                print("8")
+                comand_list_8()
             elif command == "9":
                 print("9")
             elif command == "0":
