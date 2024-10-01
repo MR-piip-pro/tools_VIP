@@ -8,10 +8,10 @@ from command_layn.command_1 import command_list_1
 from command_layn.command_2 import command_list_2
 from command_layn.command_4 import command_list_4
 from command_layn.command_7 import command_list_7
-from command.command_8 import command_list_8
+from command_layn.command_8 import command_list_8
 
 
-#from command.command_9 import command_list_9
+#from command_layn.command_9 import command_list_9
 
 from tools.upd_and_udl import upd_and_upl
 
