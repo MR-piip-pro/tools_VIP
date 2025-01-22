@@ -52,7 +52,7 @@ while True:
             elif command == "7":
                 command_list_7()
             elif command == "8":
-                comand_list_8()
+                command_list_8()
             elif command == "9":
                 print("9")
             elif command == "0":
