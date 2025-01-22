@@ -3,7 +3,7 @@ def list_command():
     \033[1;34m ═════════════════════════════════════════════════════════════════════════════════════════
     \033[1;32m 1 ==>\033[1;35m An application for updating and upgrade the operating system linux. ' AUUOSL '
     \033[1;34m ═════════════════════════════════════════════════════════════════════════════════════════
-    \033[1;32m 2 ==>\033[1;35m Lists of passwords About 1 Billion passwords To download the tool.
+    \033[1;32m 2 ==>\033[1;35m Lists of passwords About 10 Billion passwords To download the tool.
     \033[1;34m ═════════════════════════════════════════════════════════════════════════════════════════
     \033[1;32m 3 ==>\033[1;35m list-command-Upload-Updated-git.
     \033[1;34m ═════════════════════════════════════════════════════════════════════════════════════════
