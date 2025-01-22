@@ -43,7 +43,7 @@ def generate_key(password, salt):
         algorithm=hashes.SHA256(),
         length=32,
         salt=salt,
-        iterations=100000,
+        iterations=500000,
         backend=default_backend()
     )
     key = kdf.derive(password.encode())
