@@ -46,14 +46,14 @@ This tool provides a variety of functionalities designed to simplify common task
 ### Note
 - This tool is intended for educational and ethical purposes only. Unauthorized use of some functionalities (e.g., brute force attacks or sending annoying messages) may violate local laws and regulations. Please ensure you have proper authorization before using such features.
 
-# Running `test.sh` and `nano.py` Files on Kali Linux
+# Running `test.sh` and `nano.py` Files
 
 ## **1. Running the Bash Script (`test.sh`)**
 
 ### **Steps:**
 1. Open the Terminal in the directory containing the `test.sh` file:
    ```bash
-   cd /path/to/your/script
+   cd /path/to/your/tools_VIP
    ```
 
 2. Ensure the file is executable using the following command:
