@@ -46,3 +46,46 @@ This tool provides a variety of functionalities designed to simplify common task
 ### Note
 - This tool is intended for educational and ethical purposes only. Unauthorized use of some functionalities (e.g., brute force attacks or sending annoying messages) may violate local laws and regulations. Please ensure you have proper authorization before using such features.
 
+# Running `test.sh` and `nano.py` Files on Kali Linux
+
+## **1. Running the Bash Script (`test.sh`)**
+
+### **Steps:**
+1. Open the Terminal in the directory containing the `test.sh` file:
+   ```bash
+   cd /path/to/your/script
+   ```
+
+2. Ensure the file is executable using the following command:
+   ```bash
+   chmod +x test.sh
+   ```
+
+3. Run the file using one of the following commands:
+   ```bash
+   ./test.sh
+   ```
+   or:
+   ```bash
+   bash test.sh
+   ```
+
+---
+
+## **2. Running the Python File (`nano.py`)**
+
+### **Steps:**
+1. Navigate to the directory containing the `nano.py` file:
+   ```bash
+   cd /path/to/your/project
+   ```
+
+2. Ensure Python is installed on your system by checking the version:
+   ```bash
+   python3 --version
+   ```
+
+3. Run the file:
+   ```bash
+   python3 nano.py
+   ```
